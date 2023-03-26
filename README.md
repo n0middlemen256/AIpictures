@@ -1,5 +1,5 @@
 # AIpictures
-Dalle2 API
+Downloads a specified number of pictures to a folder on desktop from Dalle2
 
 pip install AIpictures
 
