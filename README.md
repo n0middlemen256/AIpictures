@@ -1,7 +1,6 @@
 # AIpictures
 Dalle2 API
 
-Install: pip install AIpictures 
-Run: AIpictures 
+pip install AIpictures\nRun: AIpictures 
  
-Api key: 
+Api key: https://platform.openai.com/account/api-keys
